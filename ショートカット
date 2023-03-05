@@ -1,9 +1,0 @@
-- git pull
-    
-    git pull = git merge + git fetch
-    
-    git fetch = リモートにあるものを取ってくるだけ（チラ見）
-    
-    git merge = ローカルの状態を合わせる
-    
-    git pull = リモートにあるものを取ってきて合わせる（ガッツリ見）
